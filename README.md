@@ -8,8 +8,12 @@
 | Cookie/JWT| احراز هویت     |
 نصب وابستگی ها:
 npm install
+
+
 نحوه اجرا:
 npm run dev
+
+
 پروژه روی http://localhost:3000 اجرا خواهد شد.
 
 
