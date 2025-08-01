@@ -6,6 +6,12 @@
 | Tailwind  | طراحی و استایل |
 | TypeScript| تایپ امن       |
 | Cookie/JWT| احراز هویت     |
+
+
+
+
+
+
 نصب وابستگی ها:
 npm install
 
